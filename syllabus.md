@@ -13,7 +13,7 @@ Lectures will be on Tuesdays, and Labs will be on Thursdays. A separate lab at a
 
 ### Contact Info
 
-* **Instructor**: Andy Eschbacher, andye.penn@gmail.com
+* **Instructor**: Andy Eschbacher, andye@design.upenn.edu
 * **TA**: Jingwen Felix Qiang, jingwenq@seas.upenn.edu
 
 ### Office Hours
