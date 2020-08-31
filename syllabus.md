@@ -4,13 +4,17 @@
 
 ### Class
 
-Tuesdays and Thursday 4:30pm - 6pm ET
+* Lectures: Tuesdays 4:30pm - 6pm US ET via Zoom and recorded
+* Labs
+  * US times: Thursday 4:30pm - 5:15pm US ET
+  * Asia times: TBD, but likely Thursday 6pm - 6:45pm China CST (6am - 6:45am ET)
 
 Lectures will be on Tuesdays, and Labs will be on Thursdays. A separate lab at a more convenient time for students in international locations will be scheduled.
 
 ### Contact Info
 
 * **Instructor**: Andy Eschbacher, andye.penn@gmail.com
+* **TA**: Jingwen Felix Qiang, jingwenq@seas.upenn.edu
 
 ### Office Hours
 
@@ -20,7 +24,7 @@ Lectures will be on Tuesdays, and Labs will be on Thursdays. A separate lab at a
 ### Course Website
 
 * GitHub: https://github.com/MUSA-509
-* Canvas
+* Canvas: Internal class information
 
 ## Course Description
 
@@ -28,11 +32,11 @@ This course is designed to provide students with the skills to build cloud-based
 
 Besides the technologies used in class, we will be using large and sometimes messy data from which we will be deriving insights from how people move around in their environments. One such dataset is [SafeGraph's human mobility data](https://docs.safegraph.com/docs). We will be combining data like this with OpenStreetMap, US Census, and datasets on open data portals.
 
-The class is divided into four sections:
+The class is divided into four modules:
 
-1. Spatial Analytics with Databases -- learn the basics of SQL for exploring datasets
+1. Spatial Analytics with Databases -- learn the basics of SQL and PostGIS for exploring datasets and answering questions of your data
 2. Python and SQL -- building basic applications with queries and interacting with web services/APIs programmatically
-3. Creating an API -- Use Python to create a basic API that queries a PostGIS database
+3. Creating an API -- use Python to create a basic API that queries a PostGIS database
 4. Building a cloud-based application -- build a full-fledged application in the cloud
 
 ## Format
@@ -72,7 +76,8 @@ Dates and schedule are subject to change.
 
 | Class # | Date | Topic | Homework |
 |---------|------|-------|----------|
-| Week 1 | Sept 1 | Exploring datasets with SQL |  |
+| Week 1 | Sept 1 | Introductions | |
+| Week 2 | Sept 8 | Spatial databases and querying | HW 1 - SQL practice |
 | Week 2 | Sept 8 | Spatial databases and querying | HW 1 - SQL practice |
 | Week 3 | Sept 15 | PostGIS and geographical SQL operations |  |
 | Week 4 | Sept 22 | BigQuery and more advanced PostGIS | HW 2 - PostGIS and BQ worked problems |
@@ -86,4 +91,3 @@ Dates and schedule are subject to change.
 | Week 12 | Nov 17 | Building your own API | Final Project Proposal |
 | Week 13 | Dec 1 | Building your own API (week 2) |  |
 | Week 14 | Dec 8 | Building your own API (week 3) |  |
-
