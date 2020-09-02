@@ -6,7 +6,7 @@ University of Pennsylvania
 Fall 2020
 
 Instructor: Andy Eschbacher, andye@design.upenn.edu
-
+TA:         Jingwen Felix Qiang, jingwenq@seas.upenn.edu
 
 ## Schedule
 
