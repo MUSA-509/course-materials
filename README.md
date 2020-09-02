@@ -26,5 +26,5 @@ Instructor: Andy Eschbacher, andye@design.upenn.edu
 
 ## Communications
 
-* Office Hours -- Zoom and by appointment
+* Office Hours -- Zoom and by appointment, We will use [OHQ](https://ohq.io/) to conduct office hours. We will be joining your zoom session when it is your turn.
 * Class questions / discussion -- [Piazza](https://piazza.com/upenn/fall2020/srs_musa5090012020c/home)
