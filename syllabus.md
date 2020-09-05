@@ -78,7 +78,6 @@ Dates and schedule are subject to change.
 |---------|------|-------|----------|
 | Week 1 | Sept 1 | Introductions | |
 | Week 2 | Sept 8 | Spatial databases and querying | HW 1 - SQL practice |
-| Week 2 | Sept 8 | Spatial databases and querying | HW 1 - SQL practice |
 | Week 3 | Sept 15 | PostGIS and geographical SQL operations |  |
 | Week 4 | Sept 22 | BigQuery and more advanced PostGIS | HW 2 - PostGIS and BQ worked problems |
 | Week 5 | Sept 29 | Python for data analysis |  |
