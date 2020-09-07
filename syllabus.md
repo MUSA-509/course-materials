@@ -76,7 +76,7 @@ Dates and schedule are subject to change.
 
 | Class # | Lecture Date | Lab Date | Topic | Homework |
 |---------|--------------|----------|-------|----------|
-| Week 1 | Sept 1 | Sept 3 | [Introductions](https://github.com/MUSA-509/week-1-introductions) | |
+| Week 1 | Sept 1 | Sept 3 | [Introductions](https://github.com/MUSA-509/week-1-introductions) | [Practice SQL](https://github.com/MUSA-509/week-1-introductions#homework) (nothing due) |
 | Week 2 | Sept 8 |  Sept 10 | Spatial databases and querying | Assigned: HW 1 - SQL practice |
 | Week 3 | Sept 15 | Sept 17 | PostGIS and geographical SQL operations | Due: HW 1 |
 | Week 4 | Sept 22 | Sept 24 | BigQuery and more advanced PostGIS | Assigned: HW 2 - PostGIS and BQ worked problems |
