@@ -75,7 +75,7 @@ When writing software, it is common to copy and paste small code snippets from o
 Dates and schedule are subject to change.
 
 | Class # | Lecture Date | Lab Date | Topic | Homework |
-|---------|------|-------|----------|
+|---------|--------------|----------|-------|----------|
 | Week 1 | Sept 1 | Sept 3 | [Introductions](https://github.com/MUSA-509/week-1-introductions) | |
 | Week 2 | Sept 8 |  Sept 10 | Spatial databases and querying | Assigned: HW 1 - SQL practice |
 | Week 3 | Sept 15 | Sept 17 | PostGIS and geographical SQL operations | Due: HW 1 |
