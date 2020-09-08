@@ -84,7 +84,7 @@ Dates and schedule are subject to change.
 | Week 6 | Oct 6 | Oct 8 | Python for geographical analysis | Assigned: HW 3 - worked problems |
 | Week 7 | Oct 13 | Oct 15 | Accessing web services with Python | Due: HW 3, Assigned: HW 4 - worked problems |
 | Week 8 | Oct 20 | Oct 22 | HTTP requests and APIs | Due: HW 4 |
-| Week 9 | Oct 27 | Oct 29 | Cloud Services and Python | Due: HW 5, Assigned: HW 5 - practicing cloud services |
+| Week 9 | Oct 27 | Oct 29 | Cloud Services and Python | Assigned: HW 5 - practicing cloud services |
 | Week 10 | Nov 3 | Nov 5 | Cloud Services | Due: HW 5 |
 | Week 11 | Nov 10 | Nov 12 | Setting up your own cloud database | Assigned: HW 6 - TBD |
 | Week 12 | Nov 17 | Nov 19 | Building your own API | Due: HW 5, Assigned: Final Project Proposal |
