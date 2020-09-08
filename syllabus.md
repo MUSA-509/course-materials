@@ -87,6 +87,6 @@ Dates and schedule are subject to change.
 | Week 9 | Oct 27 | Oct 29 | Cloud Services and Python | Due: HW 5, Assigned: HW 5 - practicing cloud services |
 | Week 10 | Nov 3 | Nov 5 | Cloud Services | Due: HW 5 |
 | Week 11 | Nov 10 | Nov 12 | Setting up your own cloud database | Assigned: HW 6 - TBD |
-| Week 12 | Nov 17 | Nov 19 | Building your own API | Due: HW 5, Assigned: Final Project Proposal |
+| Week 12 | Nov 17 | Nov 19 | Building your own API | Due: HW 6, Assigned: Final Project Proposal |
 | Week 13 | Dec 1 | Dec 3 | Building your own API (week 2) |  |
 | Week 14 | Dec 8 | Dec 10 | Building your own API (week 3) |  |
