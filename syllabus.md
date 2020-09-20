@@ -6,8 +6,8 @@
 
 * Lectures: Tuesdays 4:30pm - 6pm US ET via Zoom and recorded
 * Labs
-  * US times: Thursday 4:30pm - 5:15pm US ET
-  * Asia times: TBD, but likely Thursday 6pm - 6:45pm China CST (6am - 6:45am ET)
+  * US times: Thursday 4:30pm - 5:30pm US ET
+  * Asia times: TBD, but likely Thursday 6pm - 7pm China CST (6am - 7am ET)
 
 Lectures will be on Tuesdays, and Labs will be on Thursdays. A separate lab at a more convenient time for students in international locations will be scheduled.
 
@@ -18,7 +18,6 @@ Lectures will be on Tuesdays, and Labs will be on Thursdays. A separate lab at a
 
 ### Office Hours
 
-* TBD
 * By appointment
 
 ### Course Website
