@@ -12,10 +12,10 @@ TA:         Jingwen Felix Qiang, jingwenq@seas.upenn.edu
 
 * Lectures: Tuesdays 4:30pm - 6pm ET
 * Labs
-  * Domestic: Thursdays 4:30pm - 5:15pm ET
-  * International: TBD, but likely Thursdays 6am - 6:45am ET (6pm - 6:45pm Beijing)
+  * Domestic: Thursdays 4:30pm - 5:30pm ET
+  * International: TBD, but likely Thursdays 6am - 7m ET (6pm - 7pm Beijing)
 * Office Hours
-  * Andy: TBD
+  * Andy: by appointment
   * Felix: TBD
 
 
