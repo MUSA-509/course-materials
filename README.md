@@ -28,3 +28,14 @@ TA:         Jingwen Felix Qiang, jingwenq@seas.upenn.edu
 
 * Office Hours -- Zoom and by appointment, We will use [OHQ](https://ohq.io/) to conduct office hours. We will be joining your zoom session when it is your turn.
 * Class questions / discussion -- [Piazza](https://piazza.com/upenn/fall2020/srs_musa5090012020c/home)
+
+
+## Recommended Software
+
+* Text Editors
+  - [Atom](https://atom.io/)
+  - [VS Code](https://code.visualstudio.com/)
+  - [Sublime](https://www.sublimetext.com/)
+* GitHub client
+  - [GitHub Desktop](https://desktop.github.com/)
+  - [git](https://docs.github.com/en/github/getting-started-with-github/set-up-git)
