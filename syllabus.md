@@ -77,9 +77,9 @@ Dates and schedule are subject to change.
 | Class # | Lecture Date | Lab Date | Topic | Homework |
 |---------|--------------|----------|-------|----------|
 | Week 1 | Sept 1 | Sept 3 | [Introductions](https://github.com/MUSA-509/week-1-introductions) | [Practice SQL](https://github.com/MUSA-509/week-1-introductions#homework) (nothing due) |
-| Week 2 | Sept 8 |  Sept 10 | Spatial databases and querying | Assigned: HW 1 - SQL practice |
-| Week 3 | Sept 15 | Sept 17 | PostGIS and geographical SQL operations | Due: HW 1 |
-| Week 4 | Sept 22 | Sept 24 | BigQuery and more advanced PostGIS | Assigned: HW 2 - PostGIS and BQ worked problems |
+| Week 2 | Sept 8 |  Sept 10 | [Spatial databases and querying](https://github.com/MUSA-509/week-2-digging-into-databases) | Assigned: [HW 1 - SQL practice](https://github.com/MUSA-509/week-2-digging-into-databases/blob/master/homework-1.md) |
+| Week 3 | Sept 15 | Sept 17 | [PostGIS and geographical SQL operations](https://github.com/MUSA-509/week-3-spatial-database-pt-2) | Due: [HW 1](https://github.com/MUSA-509/week-2-digging-into-databases/blob/master/homework-1.md) |
+| Week 4 | Sept 22 | Sept 24 | [BigQuery and more advanced PostGIS](https://github.com/MUSA-509/week-3-spatial-database-pt-2) | Assigned: HW 2 - PostGIS and BQ worked problems |
 | Week 5 | Sept 29 | Oct 1 | Python for data analysis | Due: HW 2 |
 | Week 6 | Oct 6 | Oct 8 | Python for geographical analysis | Assigned: HW 3 - worked problems |
 | Week 7 | Oct 13 | Oct 15 | Accessing web services with Python | Due: HW 3, Assigned: HW 4 - worked problems |
