@@ -16,7 +16,7 @@ TA:         Jingwen Felix Qiang, jingwenq@seas.upenn.edu
   * International: TBD, but likely Thursdays 6am - 7m ET (6pm - 7pm Beijing)
 * Office Hours
   * Andy: by appointment
-  * Felix: TBD
+  * Felix: Mondays 3:00pm - 5:00pm ET, [OHQ](https://ohq.io/)
 
 
 ## Syllabus
