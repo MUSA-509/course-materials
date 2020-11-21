@@ -78,14 +78,15 @@ Dates and schedule are subject to change.
 | Week 1 | Sept 1 | Sept 3 | [Introductions](https://github.com/MUSA-509/week-1-introductions) | [Practice SQL](https://github.com/MUSA-509/week-1-introductions#homework) (nothing due) |
 | Week 2 | Sept 8 |  Sept 10 | [Spatial databases and querying](https://github.com/MUSA-509/week-2-digging-into-databases) | Assigned: [HW 1 - SQL practice](https://github.com/MUSA-509/week-2-digging-into-databases/blob/master/homework-1.md) |
 | Week 3 | Sept 15 | Sept 17 | [PostGIS and geographical SQL operations](https://github.com/MUSA-509/week-3-spatial-database-pt-2) | Due: [HW 1](https://github.com/MUSA-509/week-2-digging-into-databases/blob/master/homework-1.md) |
-| Week 4 | Sept 22 | Sept 24 | [BigQuery and more advanced PostGIS](https://github.com/MUSA-509/week-3-spatial-database-pt-2) | Assigned: HW 2 - PostGIS and BQ worked problems |
-| Week 5 | Sept 29 | Oct 1 | Python for data analysis | Due: HW 2 |
-| Week 6 | Oct 6 | Oct 8 | Python for geographical analysis | Assigned: HW 3 - worked problems |
-| Week 7 | Oct 13 | Oct 15 | Accessing web services with Python | Due: HW 3, Assigned: HW 4 - worked problems |
-| Week 8 | Oct 20 | Oct 22 | HTTP requests and APIs | Due: HW 4 |
-| Week 9 | Oct 27 | Oct 29 | Cloud Services and Python | Assigned: HW 5 - practicing cloud services |
-| Week 10 | Nov 3 | Nov 5 | Cloud Services | Due: HW 5 |
-| Week 11 | Nov 10 | Nov 12 | Setting up your own cloud database | Assigned: HW 6 - TBD |
-| Week 12 | Nov 17 | Nov 19 | Building your own API | Due: HW 6, Assigned: Final Project Proposal |
-| Week 13 | Dec 1 | Dec 3 | Building your own API (week 2) |  |
-| Week 14 | Dec 8 | Dec 10 | Building your own API (week 3) |  |
+| Week 4 | Sept 22 | Sept 24 | [Advanced PostGIS](https://github.com/MUSA-509/week-4-spatial-joins-and-indexes) | Assigned: [HW 2 - Advanced PostGIS](https://github.com/MUSA-509/homework-2-advanced-postgis) (Due Oct 6th at 11:59pm) |
+| Week 5 | Sept 29 | Oct 1 | [GIS with BigQuery](https://github.com/MUSA-509/week-5-geospatial-with-bigquery) |  |
+| Week 6 | Oct 6 | Oct 8 | [Python for geographical analysis](https://github.com/MUSA-509/week-6-python-introduction) | HW 2 Due Oct 6 by 11:59pm. Assigned: [HW 3 - Python &amp; SQL](https://github.com/MUSA-509/homework-3) |
+| Week 7 | Oct 13 | Oct 15 | [Accessing web services with Python](https://github.com/MUSA-509/week-7-querying-with-python) | Due: HW 3, Assigned: [HW 4 - Building APIs with Flask](https://github.com/MUSA-509/homework-4) |
+| Week 8 | Oct 20 | Oct 22 | [HTTP requests and APIs](https://github.com/MUSA-509/week-8-http-requests/) | Due: HW 4 |
+| Week 9 | Oct 27 | Oct 29 | [Building APIs with Python](https://github.com/MUSA-509/week-9-apis-with-flask) |  |
+| Week 10 | Nov 3 | Nov 5 | [Python APIs + Cloud Databases](https://github.com/MUSA-509/week-10-pulling-pieces-together) |  |
+| Week 11 | Nov 10 | Nov 12 | [Dynamically generated HTML pages](https://github.com/MUSA-509/week-11-all-together-now) | Assigned Nov 12: Final Project Proposal |
+| Week 12 | Nov 17 | Nov 19 | [Building an HTML Application](https://github.com/MUSA-509/week-12-html-applications) | Due Nov 19: Final Project Proposal |
+| Week 13 | Nov 24 | No class | Cloud-based APIs &amp; HTML Applications | |
+| Week 13 | Dec 1 | Dec 3 | Cloud-based APIs |  |
+| Week 14 | Dec 8 | No class | Final Project wrap-up |  |
