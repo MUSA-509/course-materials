@@ -88,5 +88,5 @@ Dates and schedule are subject to change.
 | Week 11 | Nov 10 | Nov 12 | [Dynamically generated HTML pages](https://github.com/MUSA-509/week-11-all-together-now) | Assigned Nov 12: Final Project Proposal |
 | Week 12 | Nov 17 | Nov 19 | [Building an HTML Application](https://github.com/MUSA-509/week-12-html-applications) | Due Nov 19: Final Project Proposal |
 | Week 13 | Nov 24 | No class | Cloud-based APIs &amp; HTML Applications | |
-| Week 13 | Dec 1 | Dec 3 | Cloud-based APIs |  |
-| Week 14 | Dec 8 | No class | Final Project wrap-up |  |
+| Week 14 | Dec 1 | Dec 3 | Cloud-based APIs |  |
+| Week 15 | Dec 8 | No class | Final Project wrap-up |  |
